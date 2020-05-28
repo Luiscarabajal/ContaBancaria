@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package contabancaria;
+package aplicacao;
 
-import aplicacao.Conta;
+import entities.Conta;
 import java.util.Locale;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
 /**
  *
- * @author Dell
+ * @luispires 27/05/2020 
  */
-public class ContaBancaria {
+public class Program {
 
     /**
      * @param args the command line arguments
